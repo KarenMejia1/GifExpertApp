@@ -1,6 +1,6 @@
-import React from 'react';
-import { useState } from 'react/cjs/react.development';
+import React, {useState} from 'react';
 import PropTypes from 'prop-types';
+
 
 export const AddCategory = ({setCategories}) =>{
 
